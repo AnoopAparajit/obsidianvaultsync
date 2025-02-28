@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05 - Fleeting/New Note.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "New Note"
+              "title": "New tab"
             }
           }
         ]
@@ -214,10 +210,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a852bca4cc03d576",
   "lastOpenFiles": [
-    "04 - Permanent/ObsidianSync GitHub Personal Access Token.md",
+    "00 - Map of Contents",
+    "05 - Fleeting/Untitled",
+    "99 - Meta/Untitled.md",
+    "07 - Archives/Untitled.md",
+    "06 - Daily/Untitled.md",
+    "05 - Fleeting/Untitled.md",
+    "04 - Permanent/Untitled.md",
+    "03 - Resources/Untitled.md",
+    "02 - Areas/Untitled.md",
+    "01 - Projects/Untitled.md",
+    "00 - Maps of Content/Untitled.md",
     "05 - Fleeting/New Note.md",
+    "04 - Permanent/ObsidianSync GitHub Personal Access Token.md",
     "obsidianvaultsync",
     "99 - Meta",
     "07 - Archives",
@@ -227,7 +234,6 @@
     "04 - Permanent",
     "03 - Resources",
     "02 - Areas",
-    "01 - Projects",
     "5 - Templates/FULL NOTE.md",
     "Welcome.md"
   ]
