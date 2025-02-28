@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/Untitled.md",
+                "file": "05 - Fleeting/New Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New Note"
             }
           }
         ]
@@ -216,17 +216,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "07 - Archives/Untitled.md",
-    "99 - Meta/Untitled.md",
-    "06 - Daily/Untitled.md",
-    "05 - Fleeting/Untitled.md",
-    "04 - Permanent/Untitled.md",
-    "03 - Resources/Untitled.md",
-    "02 - Areas/Untitled.md",
-    "01 - Projects/Untitled.md",
-    "00 - Maps of Content/Untitled.md",
-    "05 - Fleeting/New Note.md",
     "04 - Permanent/ObsidianSync GitHub Personal Access Token.md",
+    "05 - Fleeting/New Note.md",
     "obsidianvaultsync",
     "99 - Meta",
     "07 - Archives",
