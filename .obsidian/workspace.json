@@ -11,7 +11,6 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "05 - Fleeting/New Note.md",
@@ -20,12 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "New Note"
-=======
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
->>>>>>> ad13985 (vault backup: 2025-02-28 20:44:53)
             }
           }
         ]
@@ -186,11 +179,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "372ef2133a5c9c18",
-=======
             "id": "370fe4215a026923",
->>>>>>> ad13985 (vault backup: 2025-02-28 20:44:53)
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -225,14 +214,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-<<<<<<< HEAD
-  "active": "108b9ef2e6a8e2d4",
-  "lastOpenFiles": [
-=======
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "04 - Permanent/ObsidianSync GitHub Personal Access Token.md",
->>>>>>> ad13985 (vault backup: 2025-02-28 20:44:53)
     "05 - Fleeting/New Note.md",
     "obsidianvaultsync",
     "99 - Meta",
