@@ -27,7 +27,11 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
+<<<<<<< HEAD
   "authorInHistoryView": "hide",
+=======
+  "authorInHistoryView": "full",
+>>>>>>> ad13985 (vault backup: 2025-02-28 20:44:53)
   "dateInHistoryView": true,
   "diffStyle": "split",
   "lineAuthor": {
