@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - Map of Contents/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -210,8 +214,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a852bca4cc03d576",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00 - Map of Contents/Untitled.md",
     "00 - Map of Contents",
     "05 - Fleeting/Untitled",
     "99 - Meta/Untitled.md",
@@ -233,7 +238,6 @@
     "00 - Maps of Content",
     "04 - Permanent",
     "03 - Resources",
-    "02 - Areas",
     "5 - Templates/FULL NOTE.md",
     "Welcome.md"
   ]
